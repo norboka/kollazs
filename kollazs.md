@@ -7,6 +7,13 @@
     <title>HN oldala</title>
      </head>
 <body>
+    <nav>
+        <a href="https://github.com/norboka/kollazs/blob/main/kollazs.md" style="color: rgb(69, 204, 28);">HOME</a> |
+        <a href="https://github.com/norboka/kollazs/blob/main/keplink">1.FELADAT</a> |
+        <a href="https://github.com/norboka/kollazs/blob/main/lista">2.FELADAT</a> |
+        <a href="https://github.com/norboka/kollazs/blob/main/orarend.html">3.FELADAT</a> |
+        
+    </nav>
     <h1 style="color: aqua;"></h1>
     <h2 style="color: blueviolet;"></h2>
     <h3 style="color: brown;"></h3>
