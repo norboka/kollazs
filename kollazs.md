@@ -8,10 +8,10 @@
      </head>
 <body>
     <nav>
-        <a href="https://github.com/norboka/kollazs/blob/main/kollazs.md" style="color: rgb(69, 204, 28);">HOME</a> |
-        <a href="https://github.com/norboka/kollazs/blob/main/keplink">1.FELADAT</a> |
-        <a href="https://github.com/norboka/kollazs/blob/main/lista">2.FELADAT</a> |
-        <a href="https://github.com/norboka/kollazs/blob/main/orarend.html">3.FELADAT</a> |
+        <button><a href="https://github.com/norboka/kollazs/blob/main/kollazs.md" style="color: rgb(204, 28, 28);">HOME</a> |</button>
+        <button><a href="https://github.com/norboka/kollazs/blob/main/keplink" style="color: rgb(30, 0, 161);">1.FELADAT</a> |</button>
+        <button><a href="https://github.com/norboka/kollazs/blob/main/lista" style="color: rgb(33, 0, 124);">2.FELADAT</a> |</button>
+        <button><a href="https://github.com/norboka/kollazs/blob/main/orarend.html" style="color: rgb(0, 2, 136);">3.FELADAT</a> |</button>
         
     </nav>
     <h1 style="color: aqua;"></h1>
