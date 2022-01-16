@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
     button{
         border-radius: 25px;
         background-color: rgb(14, 2, 172);
@@ -8,4 +8,4 @@ font-size: x-large;
         color: rgb(160, 14, 14);
         text-decoration: none;
     }
-</style> 
+    @import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
