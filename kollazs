@@ -89,6 +89,7 @@
      
    
 <body>
+<div class="sidebar">
     <footer>
         <p><a href="https://norboka.github.io/kollazs">RÓLAM</a></p>
         <p><a href="https://norboka.github.io/kollazs/keplink.html">KÉPLINK</a></p>
@@ -96,10 +97,10 @@
     <p><a href="https://norboka.github.io/kollazs/orarend.html">ÓRAREND</a></p>
     <p><a href="https://norboka.github.io/kollazs/evszakok.html">ÉVSZAKOK</a></p>
     <p><a href="https://norboka.github.io/kollazs/ürlap.html">ŰRLAP</a></p>
-    <p><a href="https://norboka.github.io/kollazs/pitagorasz.html">pitagorasz</a></p>
-    <p><a href="https://norboka.github.io/kollazs/szamologep.html">szamologep</a></p>
+    <p><a href="https://norboka.github.io/kollazs/pitagorasz.html">PITAGORASZ</a></p>
+    <p><a href="https://norboka.github.io/kollazs/szamologep.html">SZAMOLOGEP</a></p>
     </footer>
-  <div class="sidebar">
+  
     <a class="active" href="https://norboka.github.io/kollazs">RÓLAM</a>
 </div>
 
