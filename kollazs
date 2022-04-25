@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HN oldala</title>
-    <link rel="stylesheet" href="stylee.css">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -92,6 +91,13 @@
 <body>
     <footer>
         <p><a href="https://norboka.github.io/kollazs">RÓLAM</a></p>
+        <p><a href="https://norboka.github.io/kollazs/keplink.html">KÉPLINK</a></p>
+    <p><a href="https://norboka.github.io/kollazs/listak.html">LISTÁK</a></p>
+    <p><a href="https://norboka.github.io/kollazs/orarend.html">ÓRAREND</a></p>
+    <p><a href="https://norboka.github.io/kollazs/evszakok.html">ÉVSZAKOK</a></p>
+    <p><a href="https://norboka.github.io/kollazs/ürlap.html">ŰRLAP</a></p>
+    <p><a href="https://norboka.github.io/kollazs/pitagorasz.html">pitagorasz</a></p>
+    <p><a href="https://norboka.github.io/kollazs/szamologep.html">szamologep</a></p>
     </footer>
   <div class="sidebar">
     <a class="active" href="https://norboka.github.io/kollazs">RÓLAM</a>
