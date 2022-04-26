@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boti oldala</title>
+</head>
+<body>
+    
+    <script>
+        function reg(){
+            localStorage.setItem("user", user.value)
+            localStorage.setItem("pass", pass.value)
+            document.getElementById("siker").innerHTML = "Sikeresen regiszráltál! :)"
+        }
+
+        function lekerdez(){
+            document.getElementById("username").innerHTML = localStorage.getItem("user")
+            document.getElementById("password").innerHTML = localStorage.getItem("pass")
+        }
+    </script>
+
+
+    <input type="text" name="user" id="user"><br>
+    <input type="text" name="pass" id="pass"><br>
+    <input type="button" value="Regisztráció" onclick="reg(user.value,pass.value)"><br>
+    <span id="siker"></span><br><br>
+    <input type="button" value="Lekérdezés" onclick="lekerdez()"><br>
+    <span id="username">User:</span><br>
+    <span id="password">Pass:</span><br>
+</body>
+</html>
